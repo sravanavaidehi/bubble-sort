@@ -4,7 +4,7 @@ class ex;
   
   bit [4:0] a[15];
   int temp = 0;
-  bit [4:0] que[$];
+
   
   function sort();
     
